@@ -1,6 +1,3 @@
-/**
- * 
- */
 package trees;
 
 /**
@@ -8,13 +5,11 @@ package trees;
  *
  */
 public class BinaryTree {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		
-
+	
+	Node root;
+	
+	BinaryTree(){
+		root = null;
 	}
 
 }
